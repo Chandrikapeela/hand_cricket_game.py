@@ -1,4 +1,4 @@
-# hand_cricket_game
+
 # Hand Cricket Game
 
 ## Overview
