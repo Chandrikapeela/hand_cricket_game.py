@@ -20,7 +20,7 @@ Hand Cricket is a text-based game where two players compete against each other i
 
    Download the source code as a ZIP file or clone the repository using Git:
    ```bash
-   git clone https://github.com/chandrikapeela/hand-cricket.git
+   git clone https://github.com/Chandrikapeela/hand_cricket_game.py.git
    ```
 
 2. **Navigate to the Project Directory**
